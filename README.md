@@ -1,0 +1,1 @@
+This music player was started on the 26th of Febraury 2022 and concluded on the 27th of February 2022, this project was built to see the how to create the basic operation of a music player using Frontend technologies.  It was a total success
